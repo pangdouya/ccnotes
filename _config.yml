@@ -1,0 +1,10 @@
+# Site settings
+title: 'CCNotes'
+email: ''
+description: "Collection of my study notes on computational complexity"
+baseurl: "/ccnotes"
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
